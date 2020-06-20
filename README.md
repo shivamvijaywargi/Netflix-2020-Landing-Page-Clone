@@ -16,7 +16,7 @@
 
 ## This is how Netflix Landing page looked as of 20 June 2020.
 
-## Do note this is not an exact replica but how I liked it to be
+## Do note this is not an exact replica but how I liked it to be with somethings that I could not replicate for now.
 
 # Disclaimer
 
