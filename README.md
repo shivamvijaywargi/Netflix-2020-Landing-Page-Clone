@@ -2,7 +2,7 @@
 
 ### Made this to learn about advanced CSS properties.
 
-## For Live preview please visit https://shivamvijaywargi.github.io/Netflix-2020-Landing-Page-Clone/
+### For Live preview please visit https://shivamvijaywargi.github.io/Netflix-2020-Landing-Page-Clone/
 
 ## Todo:
 
