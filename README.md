@@ -16,6 +16,8 @@
 
 ## This is how Netflix Landing page looked as of 20 June 2020.
 
+## Do note this is not an exact replica but how I liked it to be
+
 # Disclaimer
 
 All the images, text used in the project is not owned by me, all the copyrights goes to Netflix. I have just used them for this project.
