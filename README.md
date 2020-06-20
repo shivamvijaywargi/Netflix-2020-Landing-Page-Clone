@@ -14,6 +14,8 @@
 
 #### 4. Refactor many code snippets to follow best practices.
 
+## This is how Netflix Landing page looked as of 20 June 2020.
+
 # Disclaimer
 
 All the images, text used in the project is not owned by me, all the copyrights goes to Netflix. I have just used them for this project.
