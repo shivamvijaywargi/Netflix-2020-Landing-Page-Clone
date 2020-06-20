@@ -2,6 +2,8 @@
 
 ### Made this to learn about advanced CSS properties.
 
+![Netflix Clone Image](https://i.imgur.com/wBKfO35.jpg 'Netflix Clone Image')
+
 ### For Live preview please visit https://shivamvijaywargi.github.io/Netflix-2020-Landing-Page-Clone/
 
 ## Todo:
