@@ -10,7 +10,7 @@
 
 #### 2. Fix Accordion for FAQ.
 
-#### 3. Ofcourse clean code (It is ugly AF right now).
+#### 3. Of course clean code (It is ugly AF right now).
 
 #### 4. Refactor many code snippets to follow best practices.
 
