@@ -1,0 +1,52 @@
+.faqs {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  margin-bottom: 6rem;
+}
+
+.faqs > .main-heading-and-faq {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.main-heading-and-faq > .faq-main-heading {
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+  font-size: 3rem;
+}
+
+.main-heading-and-faq > .faq-question {
+  background-color: #303030;
+  color: #fff;
+  cursor: pointer;
+  border: none;
+  padding: 1.3rem;
+  width: 55%;
+  text-align: left;
+  font-size: 1.8rem;
+  outline: none;
+  transition: 0.4s;
+  margin-top: 0.7rem;
+}
+
+.main-heading-and-faq > .faq-answer {
+  width: 55%;
+  padding: 2rem 2rem;
+  background-color: #303030;
+  display: none;
+  overflow: hidden;
+  margin-top: 0.1rem;
+  /* margin-bottom: 0.7rem; */
+  text-align: left;
+  font-size: 1.75rem;
+  color: #fff;
+}
+
+.main-heading-and-faq > .mail-btn {
+  margin-top: 5rem;
+}
